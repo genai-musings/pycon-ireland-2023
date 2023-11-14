@@ -18,7 +18,7 @@ Unleashing the Power of Generative AI: Python API Integration with ChatGPT, DALL
 
 ## Session Presentation
 
-[Session Presentation](deck.pptx)
+[Session Presentation](https://www.slideshare.net/TomHalpin9/unleashing-the-power-of-generative-aipdf)
 
 ## Session Recording
 
